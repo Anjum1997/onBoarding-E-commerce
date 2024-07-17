@@ -35,6 +35,3 @@ const orderSchema = new mongoose.Schema({
 }, { timestamps: true });
 
 module.exports = mongoose.model('Order', orderSchema);
-
-
-//  Redis or Memcached ,gzip or Brotli ,HTTP headers like ETag, Cache-Control, RabbitMQ or Kafka,New Relic, Datadog, or Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana) or Splunk, Apache JMeter, Loader.io, or Artillery ,Nginx , GraphQL,Winston or Bunyan,PM2.

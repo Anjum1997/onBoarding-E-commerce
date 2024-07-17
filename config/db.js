@@ -13,3 +13,9 @@ const connectDB = async () => {
 };
 module.exports = connectDB;
  
+
+// Redis cache
+// virtuls
+// mongoose middlewares
+
+//  Redis or Memcached ,gzip or Brotli ,HTTP headers like ETag, Cache-Control, RabbitMQ or Kafka,New Relic, Datadog, or Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana) or Splunk, Apache JMeter, Loader.io, or Artillery ,Nginx , GraphQL,Winston or Bunyan,PM2.
